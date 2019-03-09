@@ -1,2 +1,3 @@
 Git JP lesson
 Git 2nd edit
+Git 3rd edit
